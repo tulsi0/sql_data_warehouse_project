@@ -52,6 +52,11 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 
+```
+├── tests/                              # Test scripts and quality files
+│
+├── README.md                           # Project overview and instructions
+
 
 
 
