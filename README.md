@@ -31,6 +31,9 @@ These insight empower stakeholders with key business metrics, enabling stategic 
 ---
 ## Repository Structure
 
+                        
+
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -50,12 +53,8 @@ data-warehouse-project/
 │
 ├── tests/                              # Test scripts and quality files
 │
-├── README.md                           # Project overview and instructions
-
-```
-├── tests/                              # Test scripts and quality files
-│
-├── README.md                           # Project overview and instructions
+├── README.md  
+                         # Project overview and instructions
 
 
 
